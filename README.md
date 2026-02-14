@@ -95,15 +95,4 @@ If I had one month to upgrade this system, I would move from **Descriptive Analy
 
 ---
 
-## 💻 How to Run This Analysis
-
-1.  **Clone the repo:**
-    ```bash
-    git clone https://github.com/yourusername/skygeni-challenge.git
-    cd skygeni-challenge
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
     ```
